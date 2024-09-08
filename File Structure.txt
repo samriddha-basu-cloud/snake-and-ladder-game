@@ -1,0 +1,69 @@
+/Snake Ladder Game/
+  ├─ .venv/
+  │  ├─]bin/ (ignored)
+  │  ├─]include/ (ignored)
+  │  ├─]lib/ (ignored)
+  │  ├─ .gitignore
+  │  └─]pyvenv.cfg (ignored)
+  ├─ build/
+  │  ├─ Snake And Ladder Game/
+  │  │  ├─ localpycs/
+  │  │  │  ├─ pyimod01_archive.pyc
+  │  │  │  ├─ pyimod02_importers.pyc
+  │  │  │  ├─ pyimod03_ctypes.pyc
+  │  │  │  └─ struct.pyc
+  │  │  ├─ Analysis-00.toc
+  │  │  ├─ base_library.zip
+  │  │  ├─ EXE-00.toc
+  │  │  ├─ PKG-00.toc
+  │  │  ├─ PYZ-00.pyz
+  │  │  ├─ PYZ-00.toc
+  │  │  ├─ Snake And Ladder Game.pkg
+  │  │  ├─ warn-Snake And Ladder Game.txt
+  │  │  └─ xref-Snake And Ladder Game.html
+  │  ├─ Snake\ And\ Ladder\ Game/
+  │  │  ├─ localpycs/
+  │  │  │  ├─ pyimod01_archive.pyc
+  │  │  │  ├─ pyimod02_importers.pyc
+  │  │  │  ├─ pyimod03_ctypes.pyc
+  │  │  │  └─ struct.pyc
+  │  │  ├─ Analysis-00.toc
+  │  │  ├─ base_library.zip
+  │  │  ├─ EXE-00.toc
+  │  │  ├─ PKG-00.toc
+  │  │  ├─ PYZ-00.pyz
+  │  │  ├─ PYZ-00.toc
+  │  │  ├─ Snake\ And\ Ladder\ Game.pkg
+  │  │  ├─ warn-Snake\ And\ Ladder\ Game.txt
+  │  │  └─ xref-Snake\ And\ Ladder\ Game.html
+  │  └─ SnakeAndLadderGame/
+  │     ├─ localpycs/
+  │     │  ├─ pyimod01_archive.pyc
+  │     │  ├─ pyimod02_importers.pyc
+  │     │  ├─ pyimod03_ctypes.pyc
+  │     │  └─ struct.pyc
+  │     ├─ Analysis-00.toc
+  │     ├─ base_library.zip
+  │     ├─ EXE-00.toc
+  │     ├─ PKG-00.toc
+  │     ├─ PYZ-00.pyz
+  │     ├─ PYZ-00.toc
+  │     ├─ SnakeAndLadderGame.pkg
+  │     ├─ warn-SnakeAndLadderGame.txt
+  │     └─ xref-SnakeAndLadderGame.html
+  ├─ dist/
+  │  └─ SnakeAndLadderGame
+  ├─ .DS_Store
+  ├─ Demo Game.mov
+  ├─ dice1.png
+  ├─ dice2.png
+  ├─ dice3.png
+  ├─ dice4.png
+  ├─ dice5.png
+  ├─ dice6.png
+  ├─ File Structure.txt
+  ├─ requirements.txt
+  ├─ snake_and_ladder.py
+  ├─ snake.ico
+  ├─ snake.png
+  └─ SnakeAndLadderGame.spec
